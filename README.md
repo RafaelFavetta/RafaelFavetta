@@ -6,7 +6,7 @@
 
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="🇧🇷" width="30"/> *Em português* <br>
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="🇺🇸" width="30"/> *English summary available at the end of each section*  
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="🇺🇸" width="30"/> *Summary available at the end of each section*  
 
 
 # Sobre mim
