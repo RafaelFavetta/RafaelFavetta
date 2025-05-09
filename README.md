@@ -6,8 +6,9 @@
 
 
 ## 🌍 Idiomas | Languages
-🇧🇷 *Em português*  
-🇺🇸 *English summary available at the end of each section*
+![🇧🇷](https://twemoji.maxcdn.com/v/latest/72x72/1f1e7-1f1f7.png) 🇧🇷 *Em português*  
+![🇺🇸](https://twemoji.maxcdn.com/v/latest/72x72/1f1fa-1f1f8.png) 🇺🇸 *English summary available at the end of each section*
+
 
 # Sobre mim
 
