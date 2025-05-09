@@ -11,8 +11,7 @@
 
 # Sobre mim
 
-Sou estudante de Desenvolvimento de Sistemas com foco em mobile e em transformar ideias em aplicativos úteis e bem-feitos. Gosto de resolver problemas e aprender tecnologias que despertam meu interesse.
-Gosto de aprender por conta própria e vivo fuçando coisas por aí. Atualmente estou atrás de entender ferramentas como Firebase, SQLite, ARCore e outras tecnologias que uso no meu app Android.
+Sou estudante de Desenvolvimento de Sistemas. Gosto de aprender tecnologias que despertam meu interesse e vivo fuçando coisas por aí. Atualmente estou atrás de entender ferramentas como Firebase, SQLite, ARCore e outras tecnologias que uso no meu app Android.
 
 
 Atualmente, estou focado em dois projetos principais:
@@ -34,8 +33,7 @@ Também tenho um projeto secundário:
 
 ## 🇺🇸 Summary
 
-I'm a Software Development student focused on mobile and on turning ideas into useful, well-crafted apps. I enjoy solving problems and learning new technologies.
-I love learning on my own and I'm always exploring new things. Lately, I'm diving into tools like Firebase, SQLite, ARCore, and other technologies I use in my Android app.
+I'm a Software Development student. I enjoy solving problems and learning new technologies and I'm always exploring new things. Lately, I'm diving into tools like Firebase, SQLite, ARCore, and other technologies I use in my Android app.
 
 
 Currently, I'm focused on two main projects:
