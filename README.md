@@ -26,7 +26,7 @@ Também tenho um projeto secundário:
 
 ## Contato
 
-- **LinkedIn**:<a href="https://www.linkedin.com/in/rafael-favetta-dev-translator/" target="_blank">Rafael Favetta</a> 
+- **LinkedIn**: <a href="https://www.linkedin.com/in/rafael-favetta-dev-translator/" target="_blank">Rafael Favetta</a> 
 - **E-mail**: <a href="mailto:rafaelfavetta@gmail.com" target="_blank">rafaelfavetta@gmail.com</a>
 
 ---
@@ -48,5 +48,5 @@ I also have a side project:
 
 ## Contact
 
-- **LinkedIn**:<a href="https://www.linkedin.com/in/rafael-favetta-dev-translator/" target="_blank">Rafael Favetta</a> 
+- **LinkedIn**: <a href="https://www.linkedin.com/in/rafael-favetta-dev-translator/" target="_blank">Rafael Favetta</a> 
 - **E-mail**: <a href="mailto:rafaelfavetta@gmail.com" target="_blank">rafaelfavetta@gmail.com</a>
