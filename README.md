@@ -31,7 +31,7 @@ Também tenho um projeto secundário:
 
 ---
 
-## 🇺🇸 Summary
+## Summary <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="🇺🇸" width="30"/>  
 
 I'm a Software Development student. I enjoy solving problems and learning new technologies and I'm always exploring new things. Lately, I'm diving into tools like Firebase, SQLite, ARCore, and other technologies I use in my Android app.
 
