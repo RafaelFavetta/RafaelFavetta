@@ -5,9 +5,8 @@
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 
 
-## 🌍 Idiomas | Languages
-![🇧🇷](https://twemoji.maxcdn.com/v/latest/72x72/1f1e7-1f1f7.png) 🇧🇷 *Em português*  
-![🇺🇸](https://twemoji.maxcdn.com/v/latest/72x72/1f1fa-1f1f8.png) 🇺🇸 *English summary available at the end of each section*
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="🇧🇷" width="30"/> *Em português* <br>
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="🇺🇸" width="30"/> *English summary available at the end of each section*  
 
 
 # Sobre mim
