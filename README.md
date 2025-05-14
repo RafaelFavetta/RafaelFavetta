@@ -21,7 +21,7 @@ Atualmente, estou focado em dois projetos principais:
 
 Também tenho um projeto secundário:
 
-[**Thurma**](https://github.com/MatheusMaiaRangel/thurma): Sistema de cadastro de alunos desenvolvido como parte de um curso técnico. Ele lida com até 40 atributos por aluno e foi uma ótima oportunidade para aprimorar minhas habilidades em PHP e MySQL.
+- [**Thurma**](https://github.com/MatheusMaiaRangel/thurma): Sistema de cadastro de alunos desenvolvido como parte de um curso técnico. Ele lida com até 40 atributos por aluno e foi uma ótima oportunidade para aprimorar minhas habilidades em PHP e MySQL.
 
 
 ## Contato
@@ -43,7 +43,7 @@ Currently, I'm focused on two main projects:
 
 I also have a side project:
 
-- **Student Registration System (CRUD)**: A student registration system developed as part of a technical course. It handles up to 40 attributes per student and was a great opportunity to enhance my PHP and MySQL skills.
+- [**Thurma**](https://github.com/MatheusMaiaRangel/thurma): A student registration system developed as part of a technical course. It handles up to 40 attributes per student and was a great opportunity to enhance my PHP and MySQL skills.
 
 
 ## Contact
