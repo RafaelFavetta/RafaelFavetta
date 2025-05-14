@@ -16,12 +16,12 @@ Sou estudante de Desenvolvimento de Sistemas. Gosto de aprender tecnologias que 
 
 Atualmente, estou focado em dois projetos principais:
 
-- **Localização Indoor com Realidade Aumentada (meu TCC)**: Um app Android com AR, QR Code e minimapa para guiar usuários em ambientes fechados. Usuários criadores poderão montar mapas pelo próprio app.
-- **Carteirinha de Vacinação Digital**: Site que estou desenvolvendo como TCC do curso técnico — com cadastro de pacientes, registro de vacinas, atestados, e outras funcionalidades.
+- **Localização Indoor com Realidade Aumentada (meu TCC)**: Um app Android com AR, QR Code e minimapa para guiar usuários em ambientes fechados. Usuários criadores poderão montar mapas pelo próprio app. (privado)
+- **Carteirinha de Vacinação Digital**: Site que estou desenvolvendo como TCC do curso técnico — com cadastro de pacientes, registro de vacinas, atestados, e outras funcionalidades. (será commitado após o fim do curso)
 
 Também tenho um projeto secundário:
 
-- **CRUD de Alunos**: Sistema de cadastro de alunos desenvolvido como parte de um curso técnico. Ele lida com até 40 atributos por aluno e foi uma ótima oportunidade para aprimorar minhas habilidades em PHP e MySQL.
+[**Thurma**](https://github.com/MatheusMaiaRangel/thurma): Sistema de cadastro de alunos desenvolvido como parte de um curso técnico. Ele lida com até 40 atributos por aluno e foi uma ótima oportunidade para aprimorar minhas habilidades em PHP e MySQL.
 
 
 ## Contato
