@@ -14,10 +14,10 @@
 Sou estudante de Desenvolvimento de Sistemas. Gosto de aprender tecnologias que despertam meu interesse e vivo fuçando coisas por aí. Atualmente estou atrás de entender ferramentas como Firebase, SQLite, ARCore e outras tecnologias que uso no meu app Android.
 
 
-Atualmente, estou focado em dois projetos principais, que estarão públicos em breve:
+Projetos principais:
 
-- **Localização Indoor com Realidade Aumentada: Um app Android com AR, QR Code e minimapa para guiar usuários em ambientes fechados. Usuários criadores poderão montar mapas pelo próprio app. (É meu TCC, será commitado após o fim do curso)
-- **Carteirinha de Vacinação Digital**: Site que estou desenvolvendo como TCC de um curso técnico. Com cadastro de pacientes, registro de vacinas, atestados, e outras funcionalidades.
+- **Localização Indoor com Realidade Aumentada**: Um app Android com AR, QR Code e minimapa para guiar usuários em ambientes fechados. Usuários criadores poderão montar mapas pelo próprio app. (É meu TCC, será commitado após o fim do curso)
+- [**DigitalVac**](https://github.com/RafaelFavetta/DigitalVac): Site de carteirinnha de vacinação digital que desenvolvi em grupo como TCC de um curso técnico. Com cadastro de pacientes, registro de vacinas, atestados, e outras funcionalidades.
 
 Também tenho um projeto secundário:
 
@@ -36,10 +36,10 @@ Também tenho um projeto secundário:
 I'm a Software Development student. I enjoy solving problems and learning new technologies and I'm always exploring new things. Lately, I'm diving into tools like Firebase, SQLite, ARCore, and other technologies I use in my Android app.
 
 
-Currently, I'm focused on two main projects:
+Main projects:
 
 - **Indoor Navigation with Augmented Reality**: An Android app with AR, QR codes, and a minimap to guide users in indoor spaces. Creator users will be able to build maps within the app. (It's my final project, it will be committed soon)
-- **Digital Vaccination Card**: A website I'm developing as a technical course final project. Including patient registration, vaccine records, certificates, and more.
+- [**DigitalVac**](https://github.com/RafaelFavetta/DigitalVac): A website of digital vaccination card I developed in group as a technical course final project. Including patient registration, vaccine records, certificates, and more.
 
 I also have a side project:
 
