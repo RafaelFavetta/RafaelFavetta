@@ -17,7 +17,7 @@ Sou estudante de Desenvolvimento de Sistemas. Gosto de aprender tecnologias que 
 Projetos principais:
 
 - **Localização Indoor com Realidade Aumentada**: Um app Android com AR, QR Code e minimapa para guiar usuários em ambientes fechados. Usuários criadores poderão montar mapas pelo próprio app. (É meu TCC, será commitado após o fim do curso)
-- [**DigitalVac**](https://github.com/RafaelFavetta/DigitalVac): Site de carteirinnha de vacinação digital que desenvolvi em grupo como TCC de um curso técnico. Com cadastro de pacientes, registro de vacinas, atestados, e outras funcionalidades.
+- [**DigitalVac**](https://github.com/RafaelFavetta/DigitalVac): Site de carteirinha de vacinação digital que desenvolvi em grupo como TCC de um curso técnico. Com cadastro de pacientes, registro de vacinas, atestados, e outras funcionalidades.
 
 Também tenho um projeto secundário:
 
