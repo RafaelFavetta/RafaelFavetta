@@ -26,7 +26,7 @@ Também tenho um projeto secundário:
 
 ## Contato
 
-- **LinkedIn**: https://www.linkedin.com/in/rafael-favetta-dev-translator/
+- **LinkedIn**: https://www.linkedin.com/in/rafael-favetta
 - **E-mail**: rafaelfavetta@gmail.com
 
 ---
