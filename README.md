@@ -48,5 +48,5 @@ I also have a side project:
 
 ## Contact
 
-- **LinkedIn**: https://www.linkedin.com/in/rafael-favetta-dev-translator/
+- **LinkedIn**: https://www.linkedin.com/in/rafael-favetta
 - **E-mail**: rafaelfavetta@gmail.com
