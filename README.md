@@ -1,8 +1,8 @@
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![Java](https://skillicons.dev/icons?i=java)
+![Kotlin](https://skillicons.dev/icons?i=kotlin)
+![PostgreSQL](https://skillicons.dev/icons?i=postgres)
+![MySQL](https://skillicons.dev/icons?i=mysql)
+![Firebase](https://skillicons.dev/icons?i=firebase)
 
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="🇧🇷" width="30"/> *Em português* <br>
@@ -11,15 +11,15 @@
 
 # Sobre mim
 
-Sou estudante de Desenvolvimento de Sistemas. Gosto de aprender tecnologias que despertam meu interesse e vivo fuçando coisas por aí. Atualmente estou atrás de entender ferramentas como Firebase, SQLite, ARCore e outras tecnologias que uso no meu app Android.
+Sou estudante de Análise e Desenvolvimento de Sistemas (FATEC Antônio Brambilla). Gosto de aprender tecnologias que despertam meu interesse e vivo fuçando coisas por aí. Atualmente estou atrás de me aprofundar em **Java**, **Spring**, **PostgreSQL** e fundamentos de programação para ter uma carreira como **Java Developer**.
 
 
 Projetos principais:
 
-- **Localização Indoor com Realidade Aumentada**: Um app Android com AR, QR Code e minimapa para guiar usuários em ambientes fechados. Usuários criadores poderão montar mapas pelo próprio app. (É meu TCC, será commitado após o fim do curso)
-- [**DigitalVac**](https://github.com/RafaelFavetta/DigitalVac): Site de carteirinha de vacinação digital que desenvolvi em grupo como TCC de um curso técnico. Com cadastro de pacientes, registro de vacinas, atestados, e outras funcionalidades.
+- [**Wander**](https://github.com/RafaelFavetta/Wander): Um app Android com AR, QR Code e minimapa para guiar usuários em ambientes fechados. Usuários criadores poderão montar mapas pelo próprio app.
+- [**DigitalVac**](https://github.com/RafaelFavetta/DigitalVac): Website de carteirinha de vacinação digital que desenvolvi em grupo como TCC de um curso técnico. Com cadastro de pacientes, registro de vacinas, atestados, e outras funcionalidades.
 
-Também tenho um projeto secundário:
+Também realizei um projeto secundário básico:
 
 - [**Thurma**](https://github.com/MatheusMaiaRangel/thurma): Sistema de cadastro de alunos desenvolvido como parte de um curso técnico. Ele lida com até 40 atributos por aluno e foi uma ótima oportunidade para aprimorar minhas habilidades em PHP e MySQL.
 
@@ -33,15 +33,15 @@ Também tenho um projeto secundário:
 
 ## Summary <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="🇺🇸" width="30"/>  
 
-I'm a Software Development student. I enjoy solving problems and learning new technologies and I'm always exploring new things. Lately, I'm diving into tools like Firebase, SQLite, ARCore, and other technologies I use in my Android app.
+I'm a Systems Analysis and Development student at FATEC Antônio Brambilla, Brazil. I enjoy learning technologies that spark my interest and I'm always exploring new things. Currently, I'm focused on deepening my knowledge of **Java**, **Spring**, **PostgreSQL**, and core programming fundamentals, aiming to build a career as a **Java Developer**.
 
 
 Main projects:
 
-- **Indoor Navigation with Augmented Reality**: An Android app with AR, QR codes, and a minimap to guide users in indoor spaces. Creator users will be able to build maps within the app. (It's my final project, it will be committed soon)
+- [**Wander**](https://github.com/RafaelFavetta/Wander): An Android app with AR, QR codes, and a minimap to guide users in indoor spaces. Creator users will be able to build maps within the app.
 - [**DigitalVac**](https://github.com/RafaelFavetta/DigitalVac): A website of digital vaccination card I developed in group as a technical course final project. Including patient registration, vaccine records, certificates, and more.
 
-I also have a side project:
+I also developed a basic side project:
 
 - [**Thurma**](https://github.com/MatheusMaiaRangel/thurma): A student registration system developed as part of a technical course. It handles up to 40 attributes per student and was a great opportunity to enhance my PHP and MySQL skills.
 
