@@ -6,7 +6,7 @@
 
 # Sobre mim
 
-Sou estudante de Análise e Desenvolvimento de Sistemas (FATEC Antônio Brambilla). Gosto de aprender tecnologias que despertam meu interesse e vivo fuçando coisas por aí. Atualmente estou atrás de me aprofundar em **Java**, **Spring**, **PostgreSQL** e fundamentos de programação para ter uma carreira como **Java Developer**.
+Sou estudante de Análise e Desenvolvimento de Sistemas (FATEC Antônio Brambilla). Gosto de aprender tecnologias que despertam meu interesse e vivo fuçando coisas por aí. Atualmente estou atrás de me aprofundar em **Java**, **Spring**, **PostgreSQL** e fundamentos de programação para ter uma carreira como **Desenvolvedor Java**.
 
 
 Projetos principais:
